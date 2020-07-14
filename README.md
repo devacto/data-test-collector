@@ -1,3 +1,5 @@
 # data-test-collector
 
-Test collector for Snowplow
+`pipenv sync --dev`
+
+`pipenv run python main.py`
